@@ -1,0 +1,11 @@
+timestamp,log_text,label
+2024-10-24 14:32:00,Received MDD message,info
+2024-10-24 14:33:00,Received MDD message,info
+2024-10-24 14:34:00,Received MDD message,info
+2024-10-24 14:35:00,Channel Bonding Value Exceeded,error
+2024-10-24 14:45:23,Lost MDD message,warning
+2024-10-24 14:45:23,MDD message lost,warning
+2024-10-24 14:45:23,Warning: Lost MDD message,warning
+2024-10-24 14:50:34,Upstream Channel Lock Failed,error
+2024-10-24 14:51:34,Upstream Channel Lock Lost,error
+2024-10-24 14:52:34,Error: Upstream Channel Lock Failed,error
