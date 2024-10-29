@@ -26,11 +26,6 @@ To install and set up this project, follow these steps:
     source venv/bin/activate  # On Windows use `venv\Scripts\activate`
     ```
 
-3. Install the dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
 ## Dependencies
 To build and run this project, you will need to install the following dependencies:
 - Python 3.x
