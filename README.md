@@ -57,6 +57,7 @@ pandas
 scikit-learn
 matplotlib
 seaborn
+transformers
 ```
 
 ## Usage
